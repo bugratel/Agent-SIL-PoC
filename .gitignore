@@ -1,0 +1,9 @@
+# build output (run.bat / build.bat / build.sh regenerate it)
+build/
+__pycache__/
+*.pyc
+
+# local editor / tool settings
+.idea/
+.vscode/
+.claude/settings.local.json
